@@ -1,0 +1,6 @@
+/Users/mirei/N_labo/Unity/2-19_reversi_Mirei/2-19_reversi_Mirei/obj/Debug/2-19_reversi_Mirei.csproj.AssemblyReference.cache
+/Users/mirei/N_labo/Unity/2-19_reversi_Mirei/2-19_reversi_Mirei/obj/Debug/2-19_reversi_Mirei.csproj.CoreCompileInputs.cache
+/Users/mirei/N_labo/Unity/2-19_reversi_Mirei/2-19_reversi_Mirei/bin/Debug/2-19_reversi_Mirei.exe
+/Users/mirei/N_labo/Unity/2-19_reversi_Mirei/2-19_reversi_Mirei/bin/Debug/2-19_reversi_Mirei.pdb
+/Users/mirei/N_labo/Unity/2-19_reversi_Mirei/2-19_reversi_Mirei/obj/Debug/2-19_reversi_Mirei.exe
+/Users/mirei/N_labo/Unity/2-19_reversi_Mirei/2-19_reversi_Mirei/obj/Debug/2-19_reversi_Mirei.pdb
